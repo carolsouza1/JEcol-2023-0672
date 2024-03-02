@@ -1,11 +1,5 @@
 # IMPACT OF THE EFN TRAITS ON THE POTENTIAL INDIRECT EFFECTS BETWEEN PLANTS VIA DOMINANT AND SUBORDINATE ANT SPECIES #
 
-
-setwd("C:/Users/123/OneDrive/Documentos/MEGA/MEGAsync/Projeto novo de mestrado/Artigo do mestrado/Correções/Submissão Journal of Ecology/Scripts corrigidos")
-getwd()
-dir()
-
-
 # PACKAGES #
 library(car)
 library(bbmle)   ## To compare models in a table with AICs
