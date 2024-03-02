@@ -9,9 +9,6 @@ library(lmtest)
 library(report)
 library(effectsize)
 
-setwd("C:/Users/123/OneDrive/Documentos/MEGA/MEGAsync/Projeto novo de mestrado/Artigo do mestrado/Correções/Submissão Journal of Ecology/Scripts corrigidos")
-getwd()
-dir()
 
 dados <- read.table("herb_muller.txt", header = TRUE, dec = ".")
 str(dados)
