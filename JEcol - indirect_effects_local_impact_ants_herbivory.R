@@ -19,10 +19,6 @@ library(sjPlot)
 library(report)
 
 
-setwd("C:/Users/123/OneDrive/Documentos/MEGA/MEGAsync/Projeto novo de mestrado/Artigo do mestrado/Correções/Submissão Journal of Ecology/Scripts corrigidos")
-getwd()
-dir()
-
 dat <- read.table("plots_promoter_ants_herb.txt", header = TRUE, stringsAsFactors = TRUE)
 str(dat)
 
@@ -82,7 +78,7 @@ plot(mod2.sub)
 drop1(mod2.sub, test = "Chisq")
 report(mod2.sub)
 effectsize(mod2.dom)
-report_info(mod2.sub)
+
 
 ## Plot with corrected confidence intervals (unequal intervals):
 
