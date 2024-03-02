@@ -32,7 +32,7 @@ Column I (promoter_subordinate) = Promoter degree of each plant species when sha
 
 Column J (receptor_subordinate) = Receptor degree of each plant species when sharing only subordinate ant species.
 
-
+-----------------------------------------------------------------------------------------------------------------------
 
 
 **_Impact of indirect effects on leaf herbivory patterns:_**
@@ -69,7 +69,7 @@ Column J (promoter_subordinate) = Promoter degree of each plant species when sha
 Column K (receptor_subordinate) = Receptor degree of each plant species when sharing only subordinate ant species.
 
 
-
+--------------------------------------------------------------------------------------------------------------------------
 
 
 **_Local impact of the promoter plant species on the ant visitation pattern and plant herbivory on neighbour and non-neighbour plants:_**
